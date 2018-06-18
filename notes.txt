@@ -1,0 +1,14 @@
+urop notes
+
+ssh: username and password as set, directory is /vols/build/cms/mkomm/LLP/urop
+lx01.hep.ph.ic.ac.uk
+ls shows files 
+
+C:\root_v6.14.00
+
+cd /vols/build/cms/dv814/CMSSW
+
+opening files: root.Tfile("kjnfslkfn")
+can use filename.ls 
+to get trees out, t = filename.Get("treename"). Then t.(thing) for operations on the tree.
+
